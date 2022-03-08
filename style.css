@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+.text-left{
+    text-align: left;
+}
+.text-right{
+    text-align: right;
+}
+.text-center{
+    text-align: center;
+}
+.clearfix::after{
+    content: '';
+    clear: both;
+    display: block;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+img {
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.fixed-width{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+
+
+/**** Header Section ****/
+
+
+
+/**** Banner Section ****/
+
+
+
+/**** Pricing Table Section ****/
+
+
+
+/**** Team Section  ****/
+
+
+
+/**** Newsletter Section ****/
+
+
+
+/**** About Section ****/
+
+
+
+/**** Testimonial Section ****/
+
+
+
+/**** Contact Section ****/
+
+
+
+/**** Footer Section ****/
+
+
